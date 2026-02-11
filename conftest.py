@@ -4,7 +4,9 @@ from utils.config_reader import get_url
 
 @pytest.fixture(scope="function")
 def driver():
-    driver = webdriver.Chrome()
+    options.add_argument("--headless")
+    options = webdriver.ChromeOptions()
+    driver = webdriver.Chrome(options=options)
     driver.maximize_window()
     driver.get(get_url())
     yield driver
