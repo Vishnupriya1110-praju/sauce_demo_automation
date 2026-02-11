@@ -1,0 +1,237 @@
+2026-02-09 13:22:43,334 - INFO - Test started
+2026-02-09 16:51:08,591 - INFO - Test started
+2026-02-09 17:12:36,063 - INFO - Test started
+2026-02-10 10:25:24,628 - INFO - Test started
+2026-02-10 11:43:24,186 - INFO - Test started
+2026-02-10 11:43:25,090 - INFO - Test completed
+2026-02-10 11:51:46,118 - INFO - Test started
+2026-02-10 11:51:53,044 - INFO - Test started
+2026-02-10 11:51:53,682 - INFO - Test completed
+2026-02-10 11:54:39,616 - INFO - Test started
+2026-02-10 11:54:46,466 - INFO - Test started
+2026-02-10 11:54:47,127 - INFO - Test completed
+2026-02-10 11:56:24,846 - INFO - Test started
+2026-02-10 11:56:30,948 - INFO - Test started
+2026-02-10 11:56:31,577 - INFO - Test completed
+2026-02-10 11:58:21,023 - INFO - Test started
+2026-02-10 11:58:21,598 - INFO - Test completed
+2026-02-10 11:58:27,484 - INFO - Test started
+2026-02-10 11:58:28,385 - INFO - Test completed
+2026-02-10 12:29:51,464 - INFO - Test started
+2026-02-10 12:29:58,330 - INFO - Test started
+2026-02-10 12:29:58,884 - INFO - Test completed
+2026-02-10 12:30:04,556 - INFO - Test started
+2026-02-10 12:30:05,218 - INFO - Test completed
+2026-02-10 12:30:34,164 - INFO - Test started
+2026-02-10 12:30:40,448 - INFO - Test started
+2026-02-10 12:30:41,013 - INFO - Test completed
+2026-02-10 12:30:46,781 - INFO - Test started
+2026-02-10 12:30:47,458 - INFO - Test completed
+2026-02-10 12:36:29,155 - INFO - Test started
+2026-02-10 12:36:29,898 - INFO - Test completed
+2026-02-10 12:36:35,664 - INFO - Test started
+2026-02-10 12:36:36,226 - INFO - Test completed
+2026-02-10 12:36:41,878 - INFO - Test started
+2026-02-10 12:36:42,664 - INFO - Test completed
+2026-02-10 12:44:42,174 - INFO - Test started
+2026-02-10 12:44:43,249 - INFO - Test completed
+2026-02-10 12:44:49,556 - INFO - Test started
+2026-02-10 12:44:50,011 - INFO - Test completed
+2026-02-10 12:44:55,813 - INFO - Test started
+2026-02-10 12:44:56,456 - INFO - Test completed
+2026-02-10 13:10:10,753 - INFO - Test started
+2026-02-10 13:10:13,010 - INFO - Test completed
+2026-02-10 13:10:18,859 - INFO - Test started
+2026-02-10 13:10:19,348 - INFO - Test completed
+2026-02-10 13:10:25,546 - INFO - Test started
+2026-02-10 13:10:26,151 - INFO - Test completed
+2026-02-10 13:14:24,096 - INFO - Test started
+2026-02-10 13:14:25,845 - INFO - Test completed
+2026-02-10 13:14:31,782 - INFO - Test started
+2026-02-10 13:14:32,293 - INFO - Test completed
+2026-02-10 13:14:38,201 - INFO - Test started
+2026-02-10 13:14:39,032 - INFO - Test completed
+2026-02-10 13:25:32,623 - INFO - Test started
+2026-02-10 13:25:35,194 - INFO - Test completed
+2026-02-10 13:25:41,159 - INFO - Test started
+2026-02-10 13:25:41,594 - INFO - Test completed
+2026-02-10 13:25:47,545 - INFO - Test started
+2026-02-10 13:25:48,195 - INFO - Test completed
+2026-02-10 13:27:29,391 - INFO - Test started
+2026-02-10 13:27:31,310 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 13:27:31,310 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 13:27:31,310 - INFO - Test completed
+2026-02-10 13:27:37,735 - INFO - Test started
+2026-02-10 13:27:38,220 - INFO - Test completed
+2026-02-10 13:27:44,280 - INFO - Test started
+2026-02-10 13:27:44,967 - INFO - Test completed
+2026-02-10 13:31:43,872 - INFO - Test started
+2026-02-10 13:31:45,404 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 13:31:45,404 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 13:31:45,706 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 13:31:45,706 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 13:31:45,706 - INFO - Test completed
+2026-02-10 13:31:51,785 - INFO - Test started
+2026-02-10 13:31:52,290 - INFO - Test completed
+2026-02-10 13:31:57,798 - INFO - Test started
+2026-02-10 13:31:58,407 - INFO - Test completed
+2026-02-10 13:46:17,456 - INFO - Test started
+2026-02-10 13:46:18,671 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 13:46:18,671 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 13:46:18,991 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 13:46:18,991 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 13:46:19,346 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 13:46:19,346 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 13:46:19,638 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 13:46:19,638 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 13:46:19,638 - INFO - Test completed
+2026-02-10 13:46:25,808 - INFO - Test started
+2026-02-10 13:46:26,289 - INFO - Test completed
+2026-02-10 13:46:32,392 - INFO - Test started
+2026-02-10 13:46:33,010 - INFO - Test completed
+2026-02-10 14:04:10,597 - INFO - Test started
+2026-02-10 14:04:11,735 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 14:04:11,735 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 14:04:12,106 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 14:04:12,106 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 14:04:12,438 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 14:04:12,438 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 14:04:12,786 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 14:04:12,786 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 14:04:12,787 - INFO - Test completed
+2026-02-10 14:04:18,485 - INFO - Test started
+2026-02-10 14:04:19,411 - INFO - Test completed
+2026-02-10 14:04:25,180 - INFO - Test started
+2026-02-10 14:04:25,815 - INFO - Test completed
+2026-02-10 14:04:32,260 - INFO - Test started
+2026-02-10 14:04:32,935 - INFO - Test completed
+2026-02-10 14:05:43,923 - INFO - Test started
+2026-02-10 14:05:45,007 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 14:05:45,007 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 14:05:45,336 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 14:05:45,336 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 14:05:45,701 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 14:05:45,701 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 14:05:46,112 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 14:05:46,112 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 14:05:46,112 - INFO - Test completed
+2026-02-10 14:05:52,598 - INFO - Test started
+2026-02-10 14:05:53,093 - INFO - Test completed
+2026-02-10 14:05:58,644 - INFO - Test started
+2026-02-10 14:05:59,679 - INFO - Test completed
+2026-02-10 14:06:05,644 - INFO - Test started
+2026-02-10 14:06:06,997 - INFO - Test completed
+2026-02-10 17:00:18,159 - INFO - Test started
+2026-02-10 17:00:25,170 - INFO - Test started
+2026-02-10 17:00:26,865 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:00:26,865 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:00:27,221 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:00:27,222 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:00:27,630 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:00:27,630 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:00:28,005 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:00:28,005 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:00:28,005 - INFO - Test completed
+2026-02-10 17:00:34,348 - INFO - Test started
+2026-02-10 17:00:34,813 - INFO - Test completed
+2026-02-10 17:00:41,097 - INFO - Test started
+2026-02-10 17:00:41,785 - INFO - Test completed
+2026-02-10 17:00:47,985 - INFO - Test started
+2026-02-10 17:00:49,311 - INFO - Test completed
+2026-02-10 17:11:05,892 - INFO - Test started
+2026-02-10 17:11:13,777 - INFO - Test started
+2026-02-10 17:11:20,885 - INFO - Test started
+2026-02-10 17:11:21,380 - INFO - Test completed
+2026-02-10 17:11:27,234 - INFO - Test started
+2026-02-10 17:11:27,943 - INFO - Test completed
+2026-02-10 17:11:35,354 - INFO - Test started
+2026-02-10 17:11:36,756 - INFO - Test completed
+2026-02-10 17:16:19,684 - INFO - Test started
+2026-02-10 17:16:26,489 - INFO - Test started
+2026-02-10 17:16:27,535 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:16:27,535 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:16:27,873 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:16:27,875 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:16:28,209 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:16:28,209 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:16:28,592 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:16:28,592 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:16:28,593 - INFO - Test completed
+2026-02-10 17:16:35,466 - INFO - Test started
+2026-02-10 17:16:35,919 - INFO - Test completed
+2026-02-10 17:16:41,590 - INFO - Test started
+2026-02-10 17:16:42,649 - INFO - Test completed
+2026-02-10 17:16:48,678 - INFO - Test started
+2026-02-10 17:16:49,961 - INFO - Test completed
+2026-02-10 17:19:13,226 - INFO - Test started
+2026-02-10 17:19:20,728 - INFO - Test started
+2026-02-10 17:19:21,762 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:19:21,762 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:19:22,097 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:19:22,097 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:19:22,436 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:19:22,436 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:19:22,837 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:19:22,837 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:19:22,837 - INFO - Test completed
+2026-02-10 17:19:29,106 - INFO - Test started
+2026-02-10 17:19:29,625 - INFO - Test completed
+2026-02-10 17:19:35,837 - INFO - Test started
+2026-02-10 17:19:36,510 - INFO - Test completed
+2026-02-10 17:19:42,766 - INFO - Test started
+2026-02-10 17:19:44,011 - INFO - Test completed
+2026-02-10 17:24:04,256 - INFO - Test started
+2026-02-10 17:24:12,204 - INFO - Test started
+2026-02-10 17:24:13,427 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:24:13,427 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:24:13,769 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:24:13,769 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:24:14,297 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:24:14,297 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:24:14,671 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:24:14,671 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:24:14,671 - INFO - Test completed
+2026-02-10 17:24:21,042 - INFO - Test started
+2026-02-10 17:24:21,532 - INFO - Test completed
+2026-02-10 17:24:27,658 - INFO - Test started
+2026-02-10 17:24:28,282 - INFO - Test completed
+2026-02-10 17:24:34,538 - INFO - Test started
+2026-02-10 17:24:35,880 - INFO - Test completed
+2026-02-10 17:25:59,746 - INFO - Test started
+2026-02-10 17:26:00,937 - INFO - Cart badge count after adding products: 2
+2026-02-10 17:26:00,937 - INFO - Test completed
+2026-02-10 17:26:07,040 - INFO - Test started
+2026-02-10 17:26:08,095 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:26:08,097 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 17:26:08,482 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:26:08,482 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 17:26:08,931 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:26:08,931 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 17:26:09,377 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:26:09,377 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 17:26:09,377 - INFO - Test completed
+2026-02-10 17:26:15,635 - INFO - Test started
+2026-02-10 17:26:16,103 - INFO - Test completed
+2026-02-10 17:26:22,288 - INFO - Test started
+2026-02-10 17:26:22,929 - INFO - Test completed
+2026-02-10 17:26:28,807 - INFO - Test started
+2026-02-10 17:26:30,520 - INFO - Test completed
+2026-02-10 20:07:51,282 - INFO - Test started
+2026-02-10 20:07:52,295 - INFO - Cart badge count after adding products: 2
+2026-02-10 20:07:52,295 - INFO - Test completed
+2026-02-10 20:08:01,465 - INFO - Test started
+2026-02-10 20:08:02,495 - INFO - Actual Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 20:08:02,495 - INFO - Expected Product Names: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-02-10 20:08:02,845 - INFO - Actual Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 20:08:02,845 - INFO - Expected Product Names: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-02-10 20:08:03,194 - INFO - Actual Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 20:08:03,194 - INFO - Expected Prices: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-02-10 20:08:03,610 - INFO - Actual Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 20:08:03,610 - INFO - Expected Prices: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-02-10 20:08:03,610 - INFO - Test completed
+2026-02-10 20:08:13,356 - INFO - Test started
+2026-02-10 20:08:13,878 - INFO - Test completed
+2026-02-10 20:08:23,200 - INFO - Test started
+2026-02-10 20:08:23,836 - INFO - Test completed
+2026-02-10 20:08:32,102 - INFO - Test started
+2026-02-10 20:08:33,328 - INFO - Test completed
